@@ -35,9 +35,9 @@ chsh -s $ZSH_PATH
 ./symlink-setup.sh
 
 # Git credentials
-GIT_AUTHOR_NAME="Alvaro Pinot"
+GIT_AUTHOR_NAME="Matthew Weeks"
 GIT_COMMITTER_NAME="$GIT_AUTHOR_NAME"
 git config --global user.name "$GIT_AUTHOR_NAME"
-GIT_AUTHOR_EMAIL="alvaro@neatnait.com"
+GIT_AUTHOR_EMAIL="weeksling@gmail.com"
 GIT_COMMITTER_EMAIL="$GIT_AUTHOR_EMAIL"
 git config --global user.email "$GIT_AUTHOR_EMAIL"
