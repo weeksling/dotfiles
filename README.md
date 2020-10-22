@@ -28,6 +28,11 @@ dotfiles
   zstyle ':prezto:module:tmux:iterm' integrate 'yes'
 - check this 👇
 
+# Installation
+
+## Homebrew
+`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`
+
 # Lines configured by zsh-newuser-install
 
 HISTFILE=~/.histfile
